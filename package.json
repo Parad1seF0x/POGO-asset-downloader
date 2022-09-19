@@ -23,7 +23,6 @@
     "downloader"
   ],
   "dependencies": {
-    "pogobuf": "git+https://github.com/Parad1seF0x/pogobuf.git",
     "request": "^2.74.0",
     "pokename": "^0.3.0"
   },
