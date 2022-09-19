@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "request": "^2.74.0",
+    "pogobuf": "git+https://github.com/Parad1seF0x/pogobuf.git",
     "pokename": "^0.3.0"
   },
   "scripts": {}
